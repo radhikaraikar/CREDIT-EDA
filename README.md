@@ -269,12 +269,6 @@ These insights can serve as a foundation for further **credit-risk analysis and 
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: `<your-github-profile>`
-* LinkedIn: `<your-linkedin-profile>`
 
 ---
 
